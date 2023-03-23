@@ -1,0 +1,13 @@
+.main-food {
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+}
+
+.cards-container-food {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  overflow: auto;
+  padding: 0 0 60px;
+}
